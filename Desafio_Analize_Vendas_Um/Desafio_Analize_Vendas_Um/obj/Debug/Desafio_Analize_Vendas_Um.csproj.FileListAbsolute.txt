@@ -1,0 +1,7 @@
+C:\temp\projetos\Desafio_Analize_Vendas_Um\Desafio_Analize_Vendas_Um\bin\Debug\Desafio_Analize_Vendas_Um.exe.config
+C:\temp\projetos\Desafio_Analize_Vendas_Um\Desafio_Analize_Vendas_Um\bin\Debug\Desafio_Analize_Vendas_Um.exe
+C:\temp\projetos\Desafio_Analize_Vendas_Um\Desafio_Analize_Vendas_Um\bin\Debug\Desafio_Analize_Vendas_Um.pdb
+C:\temp\projetos\Desafio_Analize_Vendas_Um\Desafio_Analize_Vendas_Um\obj\Debug\Desafio_Analize_Vendas_Um.csproj.AssemblyReference.cache
+C:\temp\projetos\Desafio_Analize_Vendas_Um\Desafio_Analize_Vendas_Um\obj\Debug\Desafio_Analize_Vendas_Um.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Desafio_Analize_Vendas_Um\Desafio_Analize_Vendas_Um\obj\Debug\Desafio_Analize_Vendas_Um.exe
+C:\temp\projetos\Desafio_Analize_Vendas_Um\Desafio_Analize_Vendas_Um\obj\Debug\Desafio_Analize_Vendas_Um.pdb
